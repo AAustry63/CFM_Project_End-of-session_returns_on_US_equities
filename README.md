@@ -1,8 +1,8 @@
-US Equity Market Return Forecasting using LSTM
+**US Equity Market Return Forecasting using LSTM**
 
 ## Overview
 
-This project was developed as part of the Capital Fund Management (CFM) MSc challenge.  
+This project was developed as part of the **Capital Fund Management (CFM) MSc challenge**.  
 The objective is to predict short-term equity return trends on the US market using deep learning techniques.
 
 Specifically, the model forecasts the direction of returns between 2:00 PM and 4:00 PM based on intraday historical data.
